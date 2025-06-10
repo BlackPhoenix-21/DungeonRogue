@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     }
 
     public ObjectSheet objectSheet;
+    public Character playerCharacter;
+    public Character enemyCharacter;
     public GameObject player;
     public GameObject enemy;
 
